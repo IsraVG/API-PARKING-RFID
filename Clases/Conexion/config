@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "localhost",
+        "user" : "root",
+        "password" : "",
+        "database" : "parking",
+        "port" : "3306"
+    }
+}
